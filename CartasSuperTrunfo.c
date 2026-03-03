@@ -82,7 +82,7 @@ printf("areie: \n");
 
   // Área para exibição dos dados da cidade
 
-  printf("\n\n===== DADOS CADASTRADOS =====\n");
+  printf("\n\n  DADOS CADASTRADOS \n");
     printf("\nCarta 1:\n");
     printf("Estado: %c\n", estado1);
     printf("Codigo: %s\n", codigo1);
